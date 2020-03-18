@@ -1,0 +1,44 @@
+/* cmsms stylesheet: Structure_print modified: 28/06/2017 10:29:43 */
+header{
+    display: none;
+    
+}
+
+.citations{
+    display:none;
+}
+
+footer{
+    
+    display:none;
+}
+
+#goUpButton img{
+    display: none;
+}
+
+img {
+    display:none;
+}
+#adresse_reseau{
+    margin:0 0 0 0px;
+    padding:0 0 0 0px;
+}
+
+#section h1{
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+#section h2{
+    padding-left: 20px;
+    font-weight: normal;
+}
+#section h3{
+    padding-left: 30px;
+    font-weight: normal;
+}
+#section p {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 15px;
+}

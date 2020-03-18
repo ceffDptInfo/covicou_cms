@@ -1,0 +1,2944 @@
+Debug: (8,000000000008E-6) - (usage: 2914344) - (peak: 2957120)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00018099999999999) - (usage: 2914312) - (peak: 2957120)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => e4537e8d92e559de
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => 22fb6e98f7bde8cc29f8174a4d18ad7d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => fd89622caad14526361edc2cf556bd90
+)
+
+Debug: (0,005428) - (usage: 3233808) - (peak: 3680080)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005491) - (usage: 3233808) - (peak: 3680080)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2915080) - (peak: 2957888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,300000000001E-5) - (usage: 2915080) - (peak: 2957888)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => e4537e8d92e559de
+    [type] => content
+    [oid] => 37
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 22fb6e98f7bde8cc29f8174a4d18ad7d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => fd89622caad14526361edc2cf556bd90
+)
+
+Debug: (0,006059) - (usage: 3269272) - (peak: 3715456)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0061180000000001) - (usage: 3269280) - (peak: 3715456)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1265
+    [lock_expires] => 1584369528
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2914816) - (peak: 2957624)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,0999999999998E-5) - (usage: 2914816) - (peak: 2957624)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => cfef629090e027d3
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => 3567a0df9dc15208c7c5df631b79427d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,0034850000000001) - (usage: 3234320) - (peak: 3680584)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003553) - (usage: 3234312) - (peak: 3680584)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (4,9999999999217E-6) - (usage: 2915576) - (peak: 2958384)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6999999999928E-5) - (usage: 2915576) - (peak: 2958384)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => cfef629090e027d3
+    [type] => content
+    [oid] => 37
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 3567a0df9dc15208c7c5df631b79427d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004226) - (usage: 3269768) - (peak: 3715952)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004277) - (usage: 3269768) - (peak: 3715952)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1266
+    [lock_expires] => 1584371762
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5999999999965E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003015) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003071) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,1000000000043E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004425) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004472) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1267
+    [lock_expires] => 1584372194
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,7999999999911E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0031549999999999) - (usage: 3234216) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003204) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999991E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,8000000000002E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004148) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004194) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1268
+    [lock_expires] => 1584372746
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,2000000000016E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00331) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003362) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,8000000000012E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004487) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004537) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1269
+    [lock_expires] => 1584373134
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,8000000000022E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003356) - (usage: 3234208) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0034109999999999) - (usage: 3234216) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,7000000000039E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00444) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004491) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1270
+    [lock_expires] => 1584373149
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,0999999999998E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003163) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003204) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (5,6999999999974E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00408) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004124) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1271
+    [lock_expires] => 1584373188
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,0999999999998E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0032489999999999) - (usage: 3234216) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003301) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,4999999999982E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004325) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004371) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1272
+    [lock_expires] => 1584373207
+)
+
+Debug: (5,9999999999921E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,5000000000002E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003523) - (usage: 3234208) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00358) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (7,000000000007E-6) - (usage: 2915472) - (peak: 2958280)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,2000000000016E-5) - (usage: 2915472) - (peak: 2958280)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 51
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,006166) - (usage: 3269664) - (peak: 3715848)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,006219) - (usage: 3269664) - (peak: 3715848)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1273
+    [lock_expires] => 1584373242
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,5000000000002E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004675) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004752) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,1999999999961E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 51
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004601) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004665) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1274
+    [lock_expires] => 1584378935
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,2000000000026E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003368) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003418) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6999999999928E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004018) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004064) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1275
+    [lock_expires] => 1584379362
+)
+
+Debug: (4,000000000004E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,9999999999969E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0032799999999999) - (usage: 3234256) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003332) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,9E-5) - (usage: 2915496) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004321) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004368) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1276
+    [lock_expires] => 1584380051
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,4000000000005E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003555) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003636) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999782E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0999999999988E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 52
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00455) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004612) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1277
+    [lock_expires] => 1584380066
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,1999999999981E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0049979999999999) - (usage: 3234256) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005067) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (4,9999999999217E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6999999999928E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004289) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0043369999999999) - (usage: 3269712) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1278
+    [lock_expires] => 1584380075
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,1000000000043E-5) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003263) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0033150000000001) - (usage: 3234256) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,000000000005E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,1000000000002E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004577) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004622) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1279
+    [lock_expires] => 1584380126
+)
+
+Debug: (2,4000000000024E-5) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00011499999999998) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004953) - (usage: 3234208) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005029) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915472) - (peak: 2958280)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,3999999999953E-5) - (usage: 2915472) - (peak: 2958280)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0039969999999999) - (usage: 3269672) - (peak: 3715848)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004041) - (usage: 3269664) - (peak: 3715848)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1280
+    [lock_expires] => 1584380186
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,3999999999953E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0033259999999999) - (usage: 3234216) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003374) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6000000000004E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004163) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004209) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1281
+    [lock_expires] => 1584380193
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2914712) - (peak: 2957520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,600000000001E-5) - (usage: 2914712) - (peak: 2957520)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003286) - (usage: 3234208) - (peak: 3680480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003338) - (usage: 3234208) - (peak: 3680480)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (1,6000000000016E-5) - (usage: 2915472) - (peak: 2958280)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,9000000000006E-5) - (usage: 2915472) - (peak: 2958280)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 51
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004617) - (usage: 3269664) - (peak: 3715848)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004673) - (usage: 3269664) - (peak: 3715848)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1282
+    [lock_expires] => 1584380198
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915040) - (peak: 2957848)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,2000000000026E-5) - (usage: 2915040) - (peak: 2957848)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 30ac72a0c1365673
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 6419615dc0ea48db712f4c32a41952a0
+    [cms_admin_user_id] => 1
+    [cms_passhash] => f58fd176f17f9a6fa5c5c718fe93e63b
+)
+
+Debug: (0,003068) - (usage: 3234536) - (peak: 3680808)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003117) - (usage: 3234536) - (peak: 3680808)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915800) - (peak: 2958608)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6999999999998E-5) - (usage: 2915800) - (peak: 2958608)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 30ac72a0c1365673
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 6419615dc0ea48db712f4c32a41952a0
+    [cms_admin_user_id] => 1
+    [cms_passhash] => f58fd176f17f9a6fa5c5c718fe93e63b
+)
+
+Debug: (0,004161) - (usage: 3269992) - (peak: 3716176)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004225) - (usage: 3269992) - (peak: 3716176)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1283
+    [lock_expires] => 1584383192
+)
+
+Debug: (4,000000000004E-6) - (usage: 2914912) - (peak: 2957720)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,8000000000022E-5) - (usage: 2914912) - (peak: 2957720)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => f35835197f8e5886
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => 3567a0df9dc15208c7c5df631b79427d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,003179) - (usage: 3234408) - (peak: 3680680)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003229) - (usage: 3234408) - (peak: 3680680)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915672) - (peak: 2958480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5999999999993E-5) - (usage: 2915672) - (peak: 2958480)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => f35835197f8e5886
+    [type] => content
+    [oid] => 37
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 3567a0df9dc15208c7c5df631b79427d
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,004522) - (usage: 3269864) - (peak: 3716048)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004585) - (usage: 3269864) - (peak: 3716048)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1284
+    [lock_expires] => 1584385007
+)
+
+Debug: (4,9999999999772E-6) - (usage: 2914752) - (peak: 2957560)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00058799999999998) - (usage: 2914752) - (peak: 2957560)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 8fda8e390ec42cac
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003916) - (usage: 3234248) - (peak: 3680520)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00396) - (usage: 3234248) - (peak: 3680520)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915512) - (peak: 2958320)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0999999999988E-5) - (usage: 2915512) - (peak: 2958320)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 8fda8e390ec42cac
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => e362c97fdc5d2b13f3602b9a45c958e4
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004435) - (usage: 3269704) - (peak: 3715888)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004494) - (usage: 3269704) - (peak: 3715888)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1285
+    [lock_expires] => 1584430308
+)
+
+Debug: (4,9999999999998E-6) - (usage: 2914912) - (peak: 2957720)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,8E-5) - (usage: 2914896) - (peak: 2957720)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 949a78499bf17e7b
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => fe94bebb07708acd7f4bb0ac9a85f580
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,003001) - (usage: 3234408) - (peak: 3680680)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003044) - (usage: 3234408) - (peak: 3680680)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (5,000000000005E-6) - (usage: 2915672) - (peak: 2958480)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,8000000000005E-5) - (usage: 2915672) - (peak: 2958480)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 949a78499bf17e7b
+    [type] => content
+    [oid] => 37
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => fe94bebb07708acd7f4bb0ac9a85f580
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,004409) - (usage: 3269864) - (peak: 3716048)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004456) - (usage: 3269864) - (peak: 3716048)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1286
+    [lock_expires] => 1584433920
+)
+
+Debug: (7,0000000000001E-6) - (usage: 2914984) - (peak: 2957792)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,8000000000001E-5) - (usage: 2914984) - (peak: 2957792)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 949a78499bf17e7b
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => fe94bebb07708acd7f4bb0ac9a85f580
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,003269) - (usage: 3234480) - (peak: 3680752)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003313) - (usage: 3234480) - (peak: 3680752)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915744) - (peak: 2958552)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,1999999999989E-5) - (usage: 2915744) - (peak: 2958552)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 949a78499bf17e7b
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => fe94bebb07708acd7f4bb0ac9a85f580
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 488edd03a0303ca308af4d25ba35adf9
+)
+
+Debug: (0,004701) - (usage: 3269936) - (peak: 3716120)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004753) - (usage: 3269936) - (peak: 3716120)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1287
+    [lock_expires] => 1584433958
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,9000000000006E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003575) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003647) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,4000000000018E-5) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004809) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004873) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1288
+    [lock_expires] => 1584440835
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,3999999999973E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004046) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004111) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (1,3000000000006E-5) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00018600000000001) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,010205) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,010284) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1289
+    [lock_expires] => 1584441329
+)
+
+Debug: (7,000000000007E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00010499999999999) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004555) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004618) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,2000000000006E-5) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004608) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004664) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1290
+    [lock_expires] => 1584446179
+)
+
+Debug: (5,9999999999782E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,5000000000002E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003264) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003315) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0999999999988E-5) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004529) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004582) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1291
+    [lock_expires] => 1584446361
+)
+
+Debug: (7,0000000000903E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,4000000000064E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,018916) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,018982) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (7,9999999999941E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,7999999999995E-5) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 37
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,021002) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,021065) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1292
+    [lock_expires] => 1584446407
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,0999999999998E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003408) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003458) - (usage: 3234304) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00011499999999998) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,0048119999999999) - (usage: 3269768) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0048549999999999) - (usage: 3269768) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1293
+    [lock_expires] => 1584446488
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2914808) - (peak: 2957616)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,3000000000055E-5) - (usage: 2914808) - (peak: 2957616)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003142) - (usage: 3234304) - (peak: 3680576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0031950000000001) - (usage: 3234312) - (peak: 3680576)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2915568) - (peak: 2958376)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,600000000003E-5) - (usage: 2915568) - (peak: 2958376)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004961) - (usage: 3269760) - (peak: 3715944)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005012) - (usage: 3269760) - (peak: 3715944)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1294
+    [lock_expires] => 1584452456
+)
+
+Debug: (7,9999999999525E-6) - (usage: 2914768) - (peak: 2957576)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,1999999999971E-5) - (usage: 2914768) - (peak: 2957576)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003346) - (usage: 3234264) - (peak: 3680536)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003396) - (usage: 3234264) - (peak: 3680536)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915528) - (peak: 2958336)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,6999999999928E-5) - (usage: 2915528) - (peak: 2958336)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 50
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,011727) - (usage: 3269720) - (peak: 3715904)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,011787) - (usage: 3269720) - (peak: 3715904)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1295
+    [lock_expires] => 1584452579
+)
+
+Debug: (7,000000000007E-6) - (usage: 2914904) - (peak: 2957712)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,300000000001E-5) - (usage: 2914904) - (peak: 2957712)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,008653) - (usage: 3234400) - (peak: 3680672)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,008743) - (usage: 3234400) - (peak: 3680672)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2915664) - (peak: 2958472)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,4999999999992E-5) - (usage: 2915664) - (peak: 2958472)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 15
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,01046) - (usage: 3269856) - (peak: 3716040)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,010527) - (usage: 3269856) - (peak: 3716040)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1296
+    [lock_expires] => 1584462422
+)
+
+Debug: (7,000000000007E-6) - (usage: 2914904) - (peak: 2957712)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00010300000000002) - (usage: 2914904) - (peak: 2957712)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 2363518c0906a6be
+    [uid] => 7
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,003711) - (usage: 3234400) - (peak: 3680672)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003778) - (usage: 3234400) - (peak: 3680672)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 7
+)
+
+Debug: (4,9999999999772E-6) - (usage: 2915664) - (peak: 2958472)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0999999999988E-5) - (usage: 2915664) - (peak: 2958472)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 2363518c0906a6be
+    [type] => content
+    [oid] => 53
+    [uid] => 7
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => a7aa9780e8a0e8b73871a95f4eea7e37
+    [cms_admin_user_id] => 7
+    [cms_passhash] => 2c67a187ab5f634292e821f893c6ac60
+)
+
+Debug: (0,004862) - (usage: 3269856) - (peak: 3716040)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004921) - (usage: 3269856) - (peak: 3716040)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1297
+    [lock_expires] => 1584462863
+)
+
+Debug: (9,0000000000368E-6) - (usage: 2914560) - (peak: 2957368)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00081600000000004) - (usage: 2914560) - (peak: 2957368)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => dfc94cde6f2c6934
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,0055580000000001) - (usage: 3234064) - (peak: 3680328)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0056580000000001) - (usage: 3234064) - (peak: 3680328)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (1,0000000000001E-5) - (usage: 2915320) - (peak: 2958128)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,9E-5) - (usage: 2915304) - (peak: 2958128)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => dfc94cde6f2c6934
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,008257) - (usage: 3269512) - (peak: 3715696)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,008341) - (usage: 3269512) - (peak: 3715696)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1298
+    [lock_expires] => 1584484703
+)
+
+Debug: (5,9999999999991E-6) - (usage: 2914520) - (peak: 2957328)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (8,4999999999998E-5) - (usage: 2914520) - (peak: 2957328)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => dfc94cde6f2c6934
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,00352) - (usage: 3234016) - (peak: 3680288)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003582) - (usage: 3234016) - (peak: 3680288)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915320) - (peak: 2958128)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00010200000000002) - (usage: 2915320) - (peak: 2958128)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => dfc94cde6f2c6934
+    [type] => content
+    [oid] => 37
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,004757) - (usage: 3269512) - (peak: 3715696)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00481) - (usage: 3269512) - (peak: 3715696)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1299
+    [lock_expires] => 1584484785
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914520) - (peak: 2957328)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,2000000000016E-5) - (usage: 2914520) - (peak: 2957328)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => dfc94cde6f2c6934
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,003208) - (usage: 3234016) - (peak: 3680288)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003261) - (usage: 3234016) - (peak: 3680288)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2915280) - (peak: 2958088)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,7000000000039E-5) - (usage: 2915280) - (peak: 2958088)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => dfc94cde6f2c6934
+    [type] => content
+    [oid] => 50
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,0043540000000001) - (usage: 3269480) - (peak: 3715656)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0044040000000001) - (usage: 3269480) - (peak: 3715656)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1300
+    [lock_expires] => 1584484793
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914520) - (peak: 2957328)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0000000000014E-5) - (usage: 2914520) - (peak: 2957328)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => dfc94cde6f2c6934
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,003457) - (usage: 3234016) - (peak: 3680288)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003524) - (usage: 3234016) - (peak: 3680288)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915320) - (peak: 2958128)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,9000000000013E-5) - (usage: 2915320) - (peak: 2958128)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => dfc94cde6f2c6934
+    [type] => content
+    [oid] => 15
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,004803) - (usage: 3269512) - (peak: 3715696)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004855) - (usage: 3269512) - (peak: 3715696)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1301
+    [lock_expires] => 1584484813
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2914520) - (peak: 2957328)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5000000000047E-5) - (usage: 2914520) - (peak: 2957328)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => dfc94cde6f2c6934
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,0033570000000001) - (usage: 3234024) - (peak: 3680288)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003417) - (usage: 3234016) - (peak: 3680288)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,0000000000615E-6) - (usage: 2915280) - (peak: 2958088)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5000000000047E-5) - (usage: 2915280) - (peak: 2958088)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => dfc94cde6f2c6934
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 651b92d1afc1cba03339a609058a9677
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 1034ee5931d9bca20b06323716050f0b
+)
+
+Debug: (0,005012) - (usage: 3269472) - (peak: 3715656)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005067) - (usage: 3269472) - (peak: 3715656)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1302
+    [lock_expires] => 1584484827
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914496) - (peak: 2957304)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,002897) - (usage: 2914488) - (peak: 2957304)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,006597) - (usage: 3233992) - (peak: 3680264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,006661) - (usage: 3233992) - (peak: 3680264)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,5000000000037E-5) - (usage: 2915256) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 53
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004893) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004935) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1303
+    [lock_expires] => 1584517596
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2914456) - (peak: 2957264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,299999999999E-5) - (usage: 2914456) - (peak: 2957264)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003011) - (usage: 3233952) - (peak: 3680224)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,0030519999999999) - (usage: 3233960) - (peak: 3680224)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,0000000000328E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,6999999999994E-5) - (usage: 2915256) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 52
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003895) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003937) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1304
+    [lock_expires] => 1584517625
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914456) - (peak: 2957264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,4000000000008E-5) - (usage: 2914456) - (peak: 2957264)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00306) - (usage: 3233952) - (peak: 3680224)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003105) - (usage: 3233952) - (peak: 3680224)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915216) - (peak: 2958024)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,600000000001E-5) - (usage: 2915216) - (peak: 2958024)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004252) - (usage: 3269408) - (peak: 3715592)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004297) - (usage: 3269408) - (peak: 3715592)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1305
+    [lock_expires] => 1584517646
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2914496) - (peak: 2957304)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,6999999999994E-5) - (usage: 2914496) - (peak: 2957304)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0034149999999999) - (usage: 3234000) - (peak: 3680264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003479) - (usage: 3233992) - (peak: 3680264)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999999E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5E-5) - (usage: 2915240) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00483) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004884) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1306
+    [lock_expires] => 1584517808
+)
+
+Debug: (7,0000000000001E-6) - (usage: 2914496) - (peak: 2957304)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,000109) - (usage: 2914488) - (peak: 2957304)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,005234) - (usage: 3233992) - (peak: 3680264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,005326) - (usage: 3233992) - (peak: 3680264)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,9999999999792E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (9,8999999999988E-5) - (usage: 2915256) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004877) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004956) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1307
+    [lock_expires] => 1584517830
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914496) - (peak: 2957304)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,0999999999988E-5) - (usage: 2914496) - (peak: 2957304)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003367) - (usage: 3233992) - (peak: 3680264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003429) - (usage: 3233992) - (peak: 3680264)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,6999999999994E-5) - (usage: 2915256) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,004842) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004893) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1308
+    [lock_expires] => 1584517890
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914456) - (peak: 2957264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,00011300000000003) - (usage: 2914456) - (peak: 2957264)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003352) - (usage: 3233952) - (peak: 3680224)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003399) - (usage: 3233952) - (peak: 3680224)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (5,9999999999505E-6) - (usage: 2915216) - (peak: 2958024)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (6,7999999999957E-5) - (usage: 2915216) - (peak: 2958024)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,0046389999999999) - (usage: 3269416) - (peak: 3715592)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004694) - (usage: 3269408) - (peak: 3715592)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1309
+    [lock_expires] => 1584517993
+)
+
+Debug: (6,000000000006E-6) - (usage: 2914496) - (peak: 2957304)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,5999999999993E-5) - (usage: 2914496) - (peak: 2957304)
+Number of elements: 7
+Array
+(
+    [showtemplate] => false
+    [opt] => setup
+    [_sk_] => 6e64a970827d357e
+    [uid] => 1
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,003402) - (usage: 3233992) - (peak: 3680264)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,003459) - (usage: 3233992) - (peak: 3680264)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lang] => Array
+        (
+            [error_lock_useridmismatch] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_othererror] => Erreur ou autre inconnue de verrouillage
+            [error_lock_cmslockexception] => Exception de verrouillage&nbsp;
+            [error_lock_cmslockownerexception] => Le verrou est détenu par un autre utilisateur. Nous ne pouvons pas le manipuler
+            [error_lock_cmsunlockexception] => Problème de déverrouillage
+            [error_lock_cmsnolockexception] => Impossible de trouver un verrou avec les identifiants spécifiés
+        )
+
+    [uid] => 1
+)
+
+Debug: (6,000000000006E-6) - (usage: 2915256) - (peak: 2958064)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (7,600000000002E-5) - (usage: 2915256) - (peak: 2958064)
+Number of elements: 10
+Array
+(
+    [showtemplate] => false
+    [opt] => lock
+    [_sk_] => 6e64a970827d357e
+    [type] => content
+    [oid] => 44
+    [uid] => 1
+    [lifetime] => 60
+    [CMSSESSIDafae481ff941] => 72c4f856885dd3857d0ee16f4bd5c872
+    [cms_admin_user_id] => 1
+    [cms_passhash] => 3b929a39782b86e4ea50e9dfae739ab3
+)
+
+Debug: (0,00474) - (usage: 3269448) - (peak: 3715632)
+/home/clients/a4ec78e1569be1d26a717622bc0f6883/web/cms_19/admin/ajax_lock.php
+Debug: (0,004795) - (usage: 3269448) - (peak: 3715632)
+Number of elements: 3
+Array
+(
+    [status] => success
+    [lock_id] => 1310
+    [lock_expires] => 1584518120
+)
+
